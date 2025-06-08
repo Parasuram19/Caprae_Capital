@@ -1,0 +1,11 @@
+source,query,domain,company_name,estimated_employees,industry,scraped_date,lead_score,ml_quality_score,quality_category
+Google Search,saas companies in europe,example-company.com,Example Company,11-50,Consulting,2025-06-08 14:09:43,69,0.87,High
+Google Search,saas companies in europe,tech-startup.io,Tech Startup,1-10,Healthcare,2025-06-08 14:09:43,49,0.16,Low
+Google Search,saas companies in europe,business-solutions.net,Business Solutions,51-200,Finance,2025-06-08 14:09:43,64,0.71,High
+Google Search,saas companies in europe,digital-agency.com,Digital Agency,500+,Marketing,2025-06-08 14:09:43,48,0.1,Low
+Google Search,saas companies in europe,consulting-firm.org,Consulting Firm,51-200,Finance,2025-06-08 14:09:43,63,0.22,Low
+Google Search,saas companies in europe,software-dev.co,Software Dev,500+,Finance,2025-06-08 14:09:43,87,0.78,High
+Google Search,saas companies in europe,marketing-agency.net,Marketing Agency,51-200,Healthcare,2025-06-08 14:09:43,27,0.04,Low
+Google Search,saas companies in europe,ecommerce-store.com,Ecommerce Store,1-10,Technology,2025-06-08 14:09:43,90,0.87,High
+Google Search,saas companies in europe,fintech-startup.io,Fintech Startup,1-10,Finance,2025-06-08 14:09:43,73,0.84,High
+Google Search,saas companies in europe,healthcare-tech.com,Healthcare Tech,51-200,Consulting,2025-06-08 14:09:43,50,0.05,Low
